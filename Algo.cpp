@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Felix";
+    std::cout << "Felix Omar Dominguez Inestroza";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
